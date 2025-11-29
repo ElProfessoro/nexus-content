@@ -1,0 +1,18 @@
+{
+  "id": "lucas-fontaine",
+  "firstName": "Lucas",
+  "lastName": "Fontaine",
+  "fullName": "Lucas Fontaine",
+  "bio": {
+    "fr": "Amoureux de la nature et engagé pour l'environnement, Lucas sensibilise aux enjeux climatiques avec pédagogie.",
+    "en": "Nature lover and environmental advocate, Lucas raises awareness about climate issues with clarity.",
+    "es": "Amante de la naturaleza y comprometido con el medio ambiente, Lucas conciencia sobre los desafíos climáticos con pedagogía.",
+    "de": "Naturliebhaber und Umweltaktivist, Lucas sensibilisiert mit Pädagogik für Klimafragen."
+  },
+  "specialties": ["Environnement", "Climat"],
+  "avatar": "https://ui-avatars.com/api/?name=Lucas+Fontaine&background=4CAF50&color=fff&size=200",
+  "social": {
+    "twitter": "@lucas_eco"
+  },
+  "languages": ["fr", "en"]
+}

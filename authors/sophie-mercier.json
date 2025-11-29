@@ -1,0 +1,18 @@
+{
+  "id": "sophie-mercier",
+  "firstName": "Sophie",
+  "lastName": "Mercier",
+  "fullName": "Sophie Mercier",
+  "bio": {
+    "fr": "Passionnée de santé et de médecine, Sophie vulgarise les avancées médicales pour les rendre accessibles à tous.",
+    "en": "Health and medicine enthusiast, Sophie makes medical advances accessible to everyone.",
+    "es": "Apasionada de la salud y la medicina, Sophie divulga los avances médicos para hacerlos accesibles a todos.",
+    "de": "Gesundheits- und Medizinbegeisterte, Sophie macht medizinische Fortschritte für alle zugänglich."
+  },
+  "specialties": ["Médecine", "Santé"],
+  "avatar": "https://ui-avatars.com/api/?name=Sophie+Mercier&background=F44336&color=fff&size=200",
+  "social": {
+    "twitter": "@sophie_sante"
+  },
+  "languages": ["fr", "en"]
+}

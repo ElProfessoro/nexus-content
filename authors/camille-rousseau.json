@@ -1,0 +1,18 @@
+{
+  "id": "camille-rousseau",
+  "firstName": "Camille",
+  "lastName": "Rousseau",
+  "fullName": "Camille Rousseau",
+  "bio": {
+    "fr": "Fascinée par l'espace et l'exploration spatiale depuis l'enfance, Camille rêve de rendre les étoiles accessibles à tous.",
+    "en": "Fascinated by space and space exploration since childhood, Camille dreams of making the stars accessible to everyone.",
+    "es": "Fascinada por el espacio y la exploración espacial desde la infancia, Camille sueña con hacer las estrellas accesibles a todos.",
+    "de": "Seit der Kindheit fasziniert von Weltraum und Raumfahrt, träumt Camille davon, die Sterne für alle zugänglich zu machen."
+  },
+  "specialties": ["Espace", "Astronomie"],
+  "avatar": "https://ui-avatars.com/api/?name=Camille+Rousseau&background=FF9800&color=fff&size=200",
+  "social": {
+    "twitter": "@camille_espace"
+  },
+  "languages": ["fr", "en"]
+}

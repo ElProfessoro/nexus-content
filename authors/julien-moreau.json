@@ -1,0 +1,18 @@
+{
+  "id": "julien-moreau",
+  "firstName": "Julien",
+  "lastName": "Moreau",
+  "fullName": "Julien Moreau",
+  "bio": {
+    "fr": "Observateur du monde qui nous entoure, Julien analyse l'impact des sciences sur notre société avec un œil critique et bienveillant.",
+    "en": "Observer of the world around us, Julien analyzes the impact of science on our society with a critical yet benevolent eye.",
+    "es": "Observador del mundo que nos rodea, Julien analiza el impacto de las ciencias en nuestra sociedad con ojo crítico y benevolente.",
+    "de": "Beobachter der Welt um uns herum, Julien analysiert die Auswirkungen der Wissenschaft auf unsere Gesellschaft mit kritischem und wohlwollendem Blick."
+  },
+  "specialties": ["Société", "Éthique"],
+  "avatar": "https://ui-avatars.com/api/?name=Julien+Moreau&background=FFEB3B&color=333&size=200",
+  "social": {
+    "twitter": "@julien_societe"
+  },
+  "languages": ["fr", "en"]
+}
